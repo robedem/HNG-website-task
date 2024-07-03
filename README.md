@@ -1,7 +1,3 @@
-Sure, here is the rewritten README file:
-
----
-
 # HNG Website Task
 
 Hello everyone,
