@@ -1,15 +1,32 @@
-# HNG-website-task
-Hello everyone my name is ROBERTO ROBERTO EDEM 
-my email - edemroberto57@gmail.com
-my slack display name - Roberto_
-This is my frontend task for stage 1 in HNG internship
+Sure, here is the rewritten README file:
 
-THis website is a simple one page website that displays my tech goals for the next two years or more 
-its covers all the criteria and requirements from the supervirsor
+---
 
-usefull links to the internship and more
-http://hng.tech/learn
-http://keyword.dog/
-http://scrapeanyweb.site/
+# HNG Website Task
 
-Thank you for your time and patient viewing this code
+Hello everyone,
+
+My name is **Roberto Roberto Edem**. You can reach me at [edemroberto57@gmail.com](mailto:edemroberto57@gmail.com) and find me on Slack with the display name **Roberto_**.
+
+This is my front-end task for Stage 1 of the HNG internship.
+
+## Overview
+
+This project is a simple one-page website that outlines my tech goals for the next two years or more. It meets all the criteria and requirements set by the supervisor for this task.
+
+## Features
+
+- **Tech Goals Display**: Showcases my ambitions and objectives in the tech field.
+- **Responsive Design**: Ensures compatibility with various devices and screen sizes.
+- **Clean and Simple Layout**: Easy to navigate and visually appealing.
+
+## Useful Links
+
+- [HNG Internship](http://hng.tech/learn)
+- [Keyword Dog](http://keyword.dog/)
+- [ScrapeAnyWeb](http://scrapeanyweb.site/)
+
+
+Thank you for taking the time to view this code and for your patience.
+
+---
